@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+     font-family: "Roboto";
+}
+
+.uno{
+
+    width: 50%;
+    border: 3px solid #000000;
+}
+
+.uno h1,p,a{
+background: orange;
+color: #000;
+margin: 10px;
+}
